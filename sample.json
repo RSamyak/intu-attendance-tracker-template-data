@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "users": [
+    {
+      "schemaVersion": 1,
+      "id": 1,
+      "name": "Asha Raman",
+      "countOfficeStar": false,
+      "countPlanned": false,
+      "confirmedThrough": "2026-10-30",
+      "days": {
+        "2025-04-07": "office",
+        "2025-04-08": "office",
+        "2025-04-14": "office",
+        "2025-04-15": "office",
+        "2025-04-16": "office",
+        "2025-08-14": "office",
+        "2025-08-15": "office+holiday",
+        "2026-09-14": "office",
+        "2026-09-15": "office",
+        "2026-09-16": "officeStar",
+        "2026-09-17": "leave",
+        "2026-09-18": "office+leave",
+        "2026-09-28": "office",
+        "2026-09-29": "office",
+        "2026-10-01": "office",
+        "2026-10-02": "officeStar+holiday",
+        "2026-10-03": "office",
+        "2026-10-05": "office",
+        "2026-10-06": "office",
+        "2026-10-07": "leave",
+        "2026-10-08": "office",
+        "2026-10-12": "office",
+        "2026-10-13": "office",
+        "2026-10-14": "holiday",
+        "2026-10-15": "office",
+        "2026-10-16": "officeStar+leave",
+        "2026-10-19": "office",
+        "2026-10-20": "office",
+        "2026-10-23": "office",
+        "2026-10-26": "office",
+        "2026-10-27": "office",
+        "2026-10-29": "office",
+        "2026-10-30": "office",
+        "2026-11-02": "office",
+        "2026-11-03": "officeStar",
+        "2026-11-04": "leave",
+        "2026-11-05": "wfh",
+        "2026-11-09": "office",
+        "2026-11-11": "office",
+        "2026-11-12": "office+holiday",
+        "2026-11-13": "leave",
+        "2026-11-16": "wfh",
+        "2026-11-18": "officeStar+holiday",
+        "2026-11-20": "office+leave"
+      },
+      "notes": {
+        "days": {
+          "2025-08-15": "Came in for the handover",
+          "2026-09-18": "Left after the morning meeting",
+          "2026-10-03": "Release cut",
+          "2026-10-11": "Travel day",
+          "2026-10-14": "Office closed for a local holiday",
+          "2026-10-16": "Morning in office, leave after lunch",
+          "2026-10-30": "Last day locked in",
+          "2026-11-05": "Planned work from home",
+          "2026-11-06": "Forgot to plan this day"
+        },
+        "weeks": {
+          "2025-04-06": "Last week of the 2-day quota",
+          "2025-04-13": "3 days a week from this week",
+          "2026-09-13": "Came in on Ganesha Chaturthi",
+          "2026-09-27": "Release cut on Saturday",
+          "2026-11-08": "Not confirmed yet"
+        },
+        "months": {
+          "2025-04": "Quota moved from 2 to 3 days on 13 Apr",
+          "2026-10": "Audit"
+        }
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "id": 2,
+      "name": "Dev Kapoor",
+      "countOfficeStar": true,
+      "countPlanned": true,
+      "confirmedThrough": null,
+      "days": {
+        "2026-10-26": "officeStar",
+        "2026-10-27": "office",
+        "2026-10-28": "officeStar",
+        "2026-10-29": "leave",
+        "2026-10-30": "officeStar",
+        "2026-11-02": "officeStar",
+        "2026-11-03": "officeStar",
+        "2026-11-05": "office",
+        "2026-11-06": "leave",
+        "2026-11-09": "officeStar",
+        "2026-11-10": "officeStar",
+        "2026-11-11": "officeStar",
+        "2026-11-12": "officeStar",
+        "2026-11-13": "wfh",
+        "2026-11-14": "officeStar",
+        "2026-11-16": "officeStar",
+        "2026-11-23": "office"
+      },
+      "notes": {
+        "days": {
+          "2026-10-29": "Out for a family function",
+          "2026-11-14": "Saturday at the other site"
+        },
+        "weeks": {
+          "2026-11-01": "Other site most days"
+        },
+        "months": {
+          "2026-11": "Nothing confirmed yet"
+        }
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "id": 3,
+      "name": "Meera Iyer",
+      "countOfficeStar": false,
+      "countPlanned": true,
+      "confirmedThrough": "2026-11-09",
+      "days": {
+        "2026-10-26": "office",
+        "2026-10-28": "office",
+        "2026-10-29": "office",
+        "2026-10-30": "leave",
+        "2026-11-02": "office",
+        "2026-11-03": "office",
+        "2026-11-05": "office",
+        "2026-11-07": "office",
+        "2026-11-09": "office",
+        "2026-11-11": "office",
+        "2026-11-12": "office",
+        "2026-11-16": "leave",
+        "2026-11-18": "office",
+        "2026-11-19": "wfh"
+      },
+      "notes": {
+        "days": {
+          "2026-10-30": "Leave",
+          "2026-11-07": "Saturday deploy",
+          "2026-11-09": "Confirmed through this morning"
+        },
+        "weeks": {
+          "2026-11-01": "First week on the new team"
+        },
+        "months": {}
+      }
+    }
+  ]
+}

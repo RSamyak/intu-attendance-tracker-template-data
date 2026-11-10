@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "thresholds": [
+    {
+      "from": "2023-09-01",
+      "daysPerWeek": 2
+    },
+    {
+      "from": "2025-04-13",
+      "daysPerWeek": 3
+    }
+  ],
+  "holidays": [
+    {
+      "date": "2023-10-02",
+      "name": "Gandhi Jayanti"
+    },
+    {
+      "date": "2023-10-24",
+      "name": "Vijayadashami"
+    },
+    {
+      "date": "2023-11-01",
+      "name": "Kannada Rajyotsava"
+    },
+    {
+      "date": "2023-11-14",
+      "name": "Balipadyami, Deepavali"
+    },
+    {
+      "date": "2023-11-22",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2023-12-25",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2023-12-26",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2023-12-27",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2023-12-28",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2023-12-29",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-01-01",
+      "name": "New Year"
+    },
+    {
+      "date": "2024-01-26",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2024-03-08",
+      "name": "Maha Shivaratri"
+    },
+    {
+      "date": "2024-03-29",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2024-04-09",
+      "name": "Ugadi"
+    },
+    {
+      "date": "2024-04-11",
+      "name": "Ramzan"
+    },
+    {
+      "date": "2024-05-01",
+      "name": "May Day"
+    },
+    {
+      "date": "2024-06-19",
+      "name": "Juneteenth"
+    },
+    {
+      "date": "2024-08-15",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2024-10-02",
+      "name": "Gandhi Jayanti"
+    },
+    {
+      "date": "2024-11-01",
+      "name": "Kannada Rajyotsava"
+    },
+    {
+      "date": "2024-11-27",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-12-25",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-12-26",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-12-27",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-12-30",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2024-12-31",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-01-01",
+      "name": "New Year"
+    },
+    {
+      "date": "2025-01-14",
+      "name": "Makara Sankranti"
+    },
+    {
+      "date": "2025-03-13",
+      "name": "Holi"
+    },
+    {
+      "date": "2025-03-31",
+      "name": "Ramzan"
+    },
+    {
+      "date": "2025-04-18",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2025-05-01",
+      "name": "May Day"
+    },
+    {
+      "date": "2025-06-19",
+      "name": "Juneteenth"
+    },
+    {
+      "date": "2025-08-15",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2025-10-01",
+      "name": "Mahanavami, Ayudha Puja"
+    },
+    {
+      "date": "2025-10-02",
+      "name": "Gandhi Jayanti, Vijayadashami"
+    },
+    {
+      "date": "2025-10-22",
+      "name": "Balipadyami, Deepavali"
+    },
+    {
+      "date": "2025-11-26",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-12-25",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-12-26",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-12-29",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-12-30",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2025-12-31",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-01-01",
+      "name": "New Year"
+    },
+    {
+      "date": "2026-01-26",
+      "name": "Republic Day"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Holi"
+    },
+    {
+      "date": "2026-03-19",
+      "name": "Ugadi / Gudi Padwa"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "May Day & Maharashtra Day"
+    },
+    {
+      "date": "2026-05-28",
+      "name": "Bakrid"
+    },
+    {
+      "date": "2026-06-19",
+      "name": "Juneteenth"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "Ganesha Chaturthi / Varasiddi Vinayaka Vrata, Swarna Gowri Vrata"
+    },
+    {
+      "date": "2026-10-02",
+      "name": "Gandhi Jayanti"
+    },
+    {
+      "date": "2026-11-10",
+      "name": "Balipadyami, Deepavali"
+    },
+    {
+      "date": "2026-11-25",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-12-28",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-12-29",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-12-30",
+      "name": "Recharge Day"
+    },
+    {
+      "date": "2026-12-31",
+      "name": "Recharge Day"
+    }
+  ]
+}

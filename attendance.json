@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "users": [
+    {
+      "schemaVersion": 1,
+      "id": 1,
+      "name": "",
+      "countOfficeStar": false,
+      "countPlanned": false,
+      "confirmedThrough": null,
+      "days": {},
+      "notes": {
+        "days": {},
+        "weeks": {},
+        "months": {}
+      }
+    }
+  ]
+}
